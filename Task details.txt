@@ -1,0 +1,54 @@
+pg 1 
+
+Hotel Booking System(HooBook.com) 
+(Frontend_Jan_Feb_Cohort_Final Task) 
+Task Overview: 
+Develop a hotel booking system where users can browse hotels, check availability, and book rooms. The platform should be fully responsive for both desktop and mobile, using React.js/Next.js. 
+Key Features to Develop 
+1. Homepage 
+Search bar (Search hotels by city, check-in & check-out date, number of guests) 
+Featured hotels section 
+Popular destinations section 
+2. Hotel Listings Page 
+Display a list of available hotels 
+Filter options (Price range, rating, amenities, location) 
+Sort options (Lowest price, highest rating, most booked) 
+3. Hotel Details Page FERNSHIP PAKISTAN 
+Hotel name, images, description, location 
+Room types with prices 
+Available amenities (WiFi, pool, gym, etc.) 
+Reviews & ratings from users 
+"Book Now" button 
+4. Booking Page 
+Form to enter guest details (Name, email, phone) 
+Select room type & number of nights 
+Summary of booking details 
+"Confirm Booking" button 
+5. User Dashboard
+
+
+pg 2
+
+Internshippakistan.carrer@gmail.com 
+View current & past bookings 
+Cancel or modify bookings 
+Profile settings (Update name, email, password, avatar) 
+6. Admin Panel (Basic) 
+Add/Edit/Delete hotels & room details 
+View all bookings 
+Development Guidelines 
+✔Use React.js/Next.js for efficient component-based development 
+✔Tailwind CSS/Styled Components for responsive UI 
+React Router for smooth navigation 
+React Query or Context API for state management 
+Use dummy JSON or local storage for hotel data (No backend required) 
+Ensure smooth UI interactions (hover effects, transitions, animations) 
+✔Implement dark mode (Optional for extra creativity) 
+Deliverables 
+GitHub Repository with structured project files 
+KISTAN 
+Live Deployment (Vercel/Netlify) 
+Fully responsive UI for both desktop & mobile 
+Clickable prototype showcasing navigation 
+Deadline: 7 Days 
+Thanks...
